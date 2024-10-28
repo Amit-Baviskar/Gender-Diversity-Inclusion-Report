@@ -73,7 +73,8 @@ The analysis draws on employee records for fiscal year 2021 (FY21), including de
 
 ## **6. Power BI Dashboard**  
 
-  ### Dashboard     
+  ### Dashboard    
+  
   
   ![Diversity And Inclusion Analysis](https://github.com/user-attachments/assets/6d222217-1858-4993-beb4-e6bd5547fa2c)
    
