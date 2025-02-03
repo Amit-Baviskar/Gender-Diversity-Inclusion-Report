@@ -49,22 +49,26 @@ The analysis draws on employee records for fiscal year 2021 (FY21), including de
 - **Number of Female Employees:**  
   Formula:
   
-         CALCULATE(DISTINCTCOUNT(Pharma[Employee ID]), FILTER(Pharma, Pharma[Gender] = "Female"))
+         CALCULATE(
+                  DISTINCTCOUNT(Pharma[Employee ID]), FILTER(Pharma, Pharma[Gender] = "Female"))
   
 - **Number of Male Employees:**  
   Formula:
   
-        CALCULATE(DISTINCTCOUNT(Pharma[Employee ID]), FILTER(Pharma, Pharma[Gender] = "Male"))
+        CALCULATE(
+                  DISTINCTCOUNT(Pharma[Employee ID]), FILTER(Pharma, Pharma[Gender] = "Male"))
   
 - **Percentage of Female Employees:**  
   Formula:
   
-        DIVIDE(Pharma[# of Female], Pharma[# of Female] + Pharma[# of Male])
+        DIVIDE(
+               Pharma[# of Female], Pharma[# of Female] + Pharma[# of Male])
   
 - **Percentage of Male Employees:**  
   Formula:
   
-          DIVIDE(Pharma[# of Male], Pharma[# of Female] + Pharma[# of Male])
+          DIVIDE(
+                Pharma[# of Male], Pharma[# of Female] + Pharma[# of Male])
   
   - The current gender distribution shows that **X%** of the executive team are women, while **Y%** are men, indicating a gender imbalance at the leadership level.
 
@@ -77,15 +81,59 @@ The analysis draws on employee records for fiscal year 2021 (FY21), including de
   
   
   ![Diversity And Inclusion Analysis](https://github.com/user-attachments/assets/6d222217-1858-4993-beb4-e6bd5547fa2c)
+
+  
    
   ### Page 1 Dashboard
   
   ![Div 1](https://github.com/user-attachments/assets/f519d732-c0c6-4050-8d0e-4164529688c2)
 
+
+
+
+  ### **Hiring Trends:**
+
+
+   * At junior levels, hiring is more balanced (53% female), but as the seniority level increases, female representation decreases.
+   * At the executive level, only 13% of new hires were female, suggesting a significant gender gap in leadership hiring.
+
+ ### **Performance Trends:**
+
+   
+  * Promotion rates for women increase at junior and mid-levels but decline sharply at senior levels.
+  * Only **20%** of executives promoted were women, reflecting slow progress in leadership diversity.
+
+
+ ### **Turnover Rate:**
+
+   
+  * Female turnover rates are generally higher than male turnover rates, particularly at the **manager and senior officer levels.**
+  * High turnover among women may indicate workplace challenges affecting retention.
+
+
+
+
+
+
   ### Page 2 Dashboard
   
   ![Div 2](https://github.com/user-attachments/assets/cedf612e-87c3-468c-84ca-3fac00485601)
 
+
+
+
+  ### **Performance Rate:**
+
+   
+  * Across all performance rating levels (1-4), male employees consistently outperform females in numbers.
+  * The highest performance ratings (4) have 63.16% male and 36.84% female employees, showing a gender disparity in top-rated employees.
+  * The distribution remains similar across other performance levels (1-3), with males always in the majority.
+
+ ### **Age Group :**
+
+   
+  * The majority of employees fall within the 20-29 and 30-39 age groups.
+  * Very few employees are in the 40+ age bracket, indicating fewer experienced professionals in senior roles.
 
 
 ## **7. Recommendations**  
