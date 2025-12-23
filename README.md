@@ -16,7 +16,7 @@
 
 
 
-## **1. Introduction**  
+## **Introduction **  
 This report provides an analysis of gender diversity at the executive management level of a telecom company. The client has been working to improve gender balance in senior management but has not seen significant progress. The goal of this report is to identify current trends in gender representation, focusing on hiring, promotion, and turnover rates to offer data-driven recommendations to improve gender balance and foster a more inclusive workplace.
 
 
