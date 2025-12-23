@@ -5,8 +5,8 @@
 
 
 ## **Table of Contents**  
-1. Introduction(#introduction)  
-2. Problem Statement  
+1. [Introduction](#introduction)  
+2. [Problem Statement](#problem-statement)  
 3. Stakeholders  
 4. Data Preparation  
 5. Data Analysis & Insights (with DAX Formulas)
