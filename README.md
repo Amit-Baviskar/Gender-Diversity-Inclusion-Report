@@ -7,12 +7,12 @@
   ## **Table of Contents**  
 1.  [Introduction](#introduction)  
 2.  [Problem Statement](#problem-statement)  
-3.  Stakeholders  
-4.  Data Preparation  
-5.  Data Analysis & Insights (with DAX Formulas)
-6.  Power BI Dashboard
-7.  Recommendations  
-8.  Conclusion  
+3.  [Stakeholders](#stakeholders)  
+4.  [Data Preparation](#data-preparation)   
+5.  [Data Analysis & Insights (with DAX Formulas)](#data-analysis-&-insights-(with-dax-formulas)) 
+6.  [Power BI Dashboard](#power-bi-dashboard) 
+7.  [Recommendations](#Recommendations)   
+8.  [Conclusion](#Conclusion)   
 
 ----
 
@@ -28,22 +28,22 @@ Despite efforts to improve gender diversity, the company is struggling to make p
 
 
 
+-----
 
-
-## **3. Stakeholders**  
+##  Stakeholders 
 - **HR Department**: Responsible for implementing diversity strategies, recruitment, promotions, and addressing turnover.  
 - **Executive Leadership**: Tasked with championing diversity initiatives and ensuring equal opportunities at the senior level.  
 - **Diversity & Inclusion Team**: Focused on creating an inclusive workplace environment and ensuring progress toward gender diversity goals.  
 
+----
 
-
-## **4. Data Preparation**  
+##  Data Preparation  
 The analysis draws on employee records for fiscal year 2021 (FY21), including details on gender, hiring, promotion, turnover, and performance ratings. The data was cleaned and transformed to focus on metrics related to gender diversity and representation at various levels of the organization.
 
+-----
 
 
-
-## **5. Data Analysis & Insights (with DAX Formulas)**
+##  Data Analysis & Insights (with DAX Formulas)
 
 **1. Gender Distribution:**  
 - **Number of Female Employees:**  
@@ -75,7 +75,7 @@ The analysis draws on employee records for fiscal year 2021 (FY21), including de
 
 
 
-## **6. Power BI Dashboard**  
+## Power BI Dashboard
 
   ### Dashboard    
   
@@ -136,7 +136,7 @@ The analysis draws on employee records for fiscal year 2021 (FY21), including de
   * Very few employees are in the 40+ age bracket, indicating fewer experienced professionals in senior roles.
 
 
-## **7. Recommendations**  
+##  Recommendations  
 **1. Targeted Recruitment:**  
    Implement strategies to recruit more women, particularly for senior and executive-level roles. This may include attending women-focused career fairs, partnering with organizations that promote women in leadership, and ensuring gender-neutral language in job descriptions.
 
